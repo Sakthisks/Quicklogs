@@ -6,7 +6,7 @@ Quicklogs application will keep and track of income-expense of a user on a day t
 
 <p align="center">
   <img src="images/Splash1.jpg" width="150" >
-  
+  <img src="images/Splash2.jpg" width="150" >
 </p>
 ![Splash2](images/Splash2.jpg) 
 

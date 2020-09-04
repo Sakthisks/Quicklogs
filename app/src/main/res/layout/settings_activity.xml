@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity">
+
+    <Button
+        android:id="@+id/ChangePassword"
+        android:layout_width="406dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="8dp"
+        android:background="#FFFFFF"
+        android:text="Change Password"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ChangeProfile"
+        android:layout_width="406dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="312dp"
+        android:background="#FFFFFF"
+        android:text="Change Profile"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/AboutUs"
+        android:layout_width="406dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="84dp"
+        android:background="#FFFFFF"
+        android:text="About Us"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ContactUs"
+        android:layout_width="406dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="160dp"
+        android:background="#FFFFFF"
+        android:text="ContactUs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Help"
+        android:layout_width="406dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="152dp"
+        android:background="#FFFFFF"
+        android:text="HELP"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ChangePassword" />
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="140dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="129dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/home"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ChangeProfile" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

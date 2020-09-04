@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/dasavings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/alert_income_cancel"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="78dp"
+        android:hint="@string/desired_annual_savings"
+        android:inputType="number"
+        android:paddingStart="40dp"
+        android:paddingEnd="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/amount_alert"
+        android:layout_alignStart="@+id/amount_alert"
+        android:layout_alignBottom="@+id/amount_alert"
+        android:layout_marginStart="12dp"
+        android:text="$"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/dasavings"
+        android:layout_alignStart="@+id/dasavings"
+        android:layout_alignBottom="@+id/dasavings"
+        android:layout_marginStart="12dp"
+        android:text="$"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/amount_alert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="50dp"
+        android:hint="Annual Income"
+        android:inputType="number"
+        android:paddingStart="40dp"
+        android:paddingEnd="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/alert_income_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/amount_alert"
+        android:layout_alignEnd="@+id/amount_alert"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/transparent"
+        android:text="@string/add"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/alert_income_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/alert_income_add"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="3dp"
+        android:layout_toStartOf="@+id/alert_income_add"
+        android:background="@android:color/transparent"
+        android:text="@string/cancel"
+        android:textColor="@color/colorAccent" />
+
+</RelativeLayout>

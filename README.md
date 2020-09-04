@@ -3,7 +3,7 @@ Quicklogs application will keep and track of income-expense of a user on a day t
 ![Quicklogs logo](images/logo.png) 
 
 <p >
-  <img src="images/Splash1.jpg" width="200" >
+  <img src="images/Splash1.jpg" width="180" >
   <img src="images/Splash2.jpg" width="150" >
   <img src="images/Login.jpg" width="150" >
   <img src="images/Signup.jpg" width="150" >

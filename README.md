@@ -7,12 +7,12 @@ Quicklogs application will keep and track of income-expense of a user on a day t
   <img src="images/Splash2.jpg" width="150" >
   <img src="images/Login.jpg" width="150" >
   <img src="images/Signup.jpg" width="150" >
-  <img src="images/Menu.jpg" width="150" >
+  <img src="images/Menu.jpg" width="150" ><br>
   <img src="images/Home1.jpg" width="150" >
   <img src="images/Home2.jpg" width="150" >
   <img src="images/Home3.jpg" width="150" >
   <img src="images/Addamount.jpg" width="150" >
-  <img src="images/expensegraph.jpg" width="150" >
+  <img src="images/expensegraph.jpg" width="150" ><br>
   <img src="images/Savingsgraph.jpg" width="150" >
   <img src="images/Changepassword.jpg" width="150" >
   <img src="images/Contactus.jpg" width="150" >

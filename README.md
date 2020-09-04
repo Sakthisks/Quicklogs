@@ -2,39 +2,21 @@ Quicklogs application will keep and track of income-expense of a user on a day t
 
 ![Quicklogs logo](images/logo.png) 
 
-![Splash1](images/Splash1.jpg) 
-
-<p align="center">
+<p >
   <img src="images/Splash1.jpg" width="150" >
   <img src="images/Splash2.jpg" width="150" >
+  <img src="images/Login.jpg" width="150" >
+  <img src="images/Signup.jpg" width="150" >
+  <img src="images/Menu.jpg" width="150" >
+  <img src="images/Home1.jpg" width="150" >
+  <img src="images/Home2.jpg" width="150" >
+  <img src="images/Home3.jpg" width="150" >
+  <img src="images/Addamount.jpg" width="150" >
+  <img src="images/expensegraph.jpg" width="150" >
+  <img src="images/Savingsgraph.jpg" width="150" >
+  <img src="images/Changepassword.jpg" width="150" >
+  <img src="images/Contactus.jpg" width="150" >
+  <img src="images/Guide.jpg" width="150" >
+  <img src="images/Updateprofile.jpg" width="150" >
+  
 </p>
-![Splash2](images/Splash2.jpg) 
-
-
-![Login](images/Login.jpg) 
-
-![Signup](images/Signup.jpg) 
-
-![Menu](images/Menu.jpg) 
-
-![Home1](images/Home1.jpg) 
-
-![Home2](images/Home2.jpg) 
-
-![Home3](images/Home3.jpg) 
-
-![Addamount](images/Addamount.jpg) 
-
-![expensegraph](images/expensegraph.jpg) 
-
-![Savingsgraph](images/Savingsgraph.jpg) 
-
-![Settings](images/Settings.jpg) 
-
-![Changepassword](images/Changepassword.jpg) 
-
-![Contactus](images/Contactus.jpg) 
-
-![Guide](images/Guide.jpg) 
-
-![Updateprofile](images/Updateprofile.jpg) 
